@@ -1,7 +1,12 @@
-h1, h2, h3, p, ol, ul {
+h1, 
+h2, 
+h3, 
+p, 
+ol, 
+ul,
+nav {
     font-family: sans-serif;
 }
-
 
 h1 {
     font-size: 24px;
@@ -29,4 +34,13 @@ ol {
 ul {
     font-size: 16px;
     line-height:  1.5;
+}
+
+.author {
+    font-style: italic;
+    font-size: 14px;
+}
+
+.bigfoot {
+    font-size: 12px;
 }
