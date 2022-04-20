@@ -1,3 +1,9 @@
+/* Universal selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
 h1, 
 h2, 
 h3, 
@@ -14,6 +20,11 @@ h3 {
     color: #8C6057;
 }
 
+article {
+    margin-bottom: 25px;
+}
+
+
 p,
 ul,
 ol,
@@ -21,11 +32,14 @@ footer {
     color:#5C5346;
 }
 
+/* CALLOUT: ALWAYS USE MARGIN-BOTTOM FOR SPACE */
+
 .main-header {
+    /* border-bottom: 15px solid #F0F2EF; */
     background-color: #F0F2EF;
-    border-bottom: 15px solid #F0F2EF;
     padding: 15px;
     padding-left: 30px;
+    margin-bottom: 60px;
 }
 
 h1 {
@@ -35,10 +49,15 @@ h1 {
 
 h2 {
     font-size: 36px;
+    margin-bottom: 25px;
 }
 
 h3 {
     font-size: 24px;
+}
+
+p {
+    margin-bottom: 25px;
 }
 
 p,
@@ -58,7 +77,8 @@ ul {
 }
 
 aside {
-    border-top: 10px solid #8c6057ce
+    border-top: 10px solid #8c6057ce;
+    padding: 15px 0px;
 }
 
 /* li:first-child {
