@@ -75,6 +75,10 @@ aside {
 
 /* Styling links */
 /* Always edit in this order: LVHA */
+/* Class selector is weighted above all others */
+/* When specificity is the same, the last one applies */
+/* Unless "important!" is used */
+
 
 a:link,
 a:visited {
