@@ -64,3 +64,34 @@ ul {
 .bigfoot {
     font-size: 12px;
 }
+
+aside {
+    border-top: 10px solid #8c6057ce
+}
+
+/* li:first-child {
+    font-weight: bold;
+} */
+
+/* Styling links */
+/* Always edit in this order: LVHA */
+
+a:link,
+a:visited {
+    color:#8C6057;
+    text-decoration: none;
+}
+
+/* What happens when hovered? */
+
+a:hover {
+    color: #8c6057d6;
+    font-weight: bold;
+    border-bottom: solid;
+}
+
+/* What happens when clicking? */
+
+a:active {
+    color:#79534b;
+}
