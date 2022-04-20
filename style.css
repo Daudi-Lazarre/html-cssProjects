@@ -8,6 +8,25 @@ nav {
     font-family: sans-serif;
 }
 
+h1,
+h2,
+h3 {
+    color: #8C6057;
+}
+
+p,
+ul,
+ol,
+footer {
+    color:#5C5346;
+}
+
+.main-header {
+    background-color: #F0F2EF;
+    border-bottom: 15px solid #F0F2EF;
+    border-width: 15px;
+}
+
 h1 {
     font-size: 24px;
     text-transform: uppercase;
@@ -24,6 +43,7 @@ h3 {
 p {
     font-size: 16px;
     line-height:  1.5;
+
 }
 
 ol {
