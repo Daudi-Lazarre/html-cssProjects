@@ -55,9 +55,10 @@ footer {
 /* Pseudo elements don't exist, but they do. */
 /* First line of every p is bold */
 
-p::first-line {
+/* Bug found */
+/* p::first-line {
     font-weight: bold;
-}
+} */
 
 h1 {
     font-size: 24px;
@@ -74,7 +75,7 @@ h2 {
 /* Optional */
 h2::after {
     content: "TOP";
-    background-color: #AFD5AA;
+    background-color: #d5aaaf;
     color: #000;
     font-size: 35%;
     display: inline-block;
