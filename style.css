@@ -48,6 +48,12 @@ footer {
     padding: 15px;
     padding-left: 30px;
     margin-bottom: 60px;
+    text-align: center;
+}
+
+/* Pseudo elements don't exist, but they do. */
+p::first-line {
+    font-weight: bold;
 }
 
 h1 {
@@ -57,7 +63,22 @@ h1 {
 
 h2 {
     font-size: 36px;
-    margin-bottom: 25px;
+    margin-bottom: 0px;
+    position: relative;
+    /* SEE: Pseudo-element placement: background-color: orange; */
+}
+
+/* Optional */
+h2::after {
+    content: "TOP";
+    background-color: #AFD5AA;
+    color: #000;
+    font-size: 35%;
+    display: inline-block;
+    padding: 5px 10px;
+    position: absolute;
+    top: -10px;
+    right: 0px;
 }
 
 .dog-image {
@@ -98,7 +119,8 @@ ul {
 
 .author {
     font-style: italic;
-    font-size: 14px;
+    font-size: 12px;
+
 }
 
 .bigfoot {
