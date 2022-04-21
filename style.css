@@ -36,7 +36,7 @@ footer {
 }
 
 .container {
-    width: 800px;
+    width: 850px;
     margin: 0 auto;
 }
 
@@ -52,6 +52,8 @@ footer {
 }
 
 /* Pseudo elements don't exist, but they do. */
+/* First line of every p is bold */
+
 p::first-line {
     font-weight: bold;
 }
@@ -123,9 +125,9 @@ ul {
 
 }
 
-.bigfoot {
+/* .bigfoot {
     font-size: 12px;
-}
+} */
 
 aside {
     border-top: 10px solid #8c6057ce;
