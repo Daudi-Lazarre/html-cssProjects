@@ -42,9 +42,10 @@ footer {
 
 /* CALLOUT: ALWAYS USE MARGIN-BOTTOM FOR SPACE */
 
+/* Main header & Aside have the same color */
 .main-header {
     /* border-bottom: 15px solid #F0F2EF; */
-    background-color: #F0F2EF;
+    background-color: #afd5aa4c;
     padding: 15px;
     padding-left: 30px;
     margin-bottom: 60px;
@@ -125,12 +126,12 @@ ul {
 
 }
 
-/* .bigfoot {
+.bigfoot {
     font-size: 12px;
-} */
+}
 
 aside {
-    border-top: 10px solid #8c6057ce;
+    border-top: 10px solid #afd5aa4c;
     padding: 15px 0px;
 }
 
