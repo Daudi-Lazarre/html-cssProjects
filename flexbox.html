@@ -40,9 +40,26 @@
         margin: 40px;
 
         /* FLEXBOX */
+        display: flex;
+        align-items: stretch;
+        justify-content: center;
+        gap: 25px;
       }
+      /* Gap takes care of stuff like this */
+      /* .el {
+          margin-right: 25px; */
+      }
+
+        /* Align item by itself, outside of container */
+      .el--1 {
+          align-self: stretch;
+          /* order: 5; */
+      }
+
     </style>
   </head>
+  <!-- The flex container, holds all things being flexed -->
+  <!-- Fills the exact space necessary -->
   <body>
     <div class="container">
       <div class="el el--1">HTML</div>
