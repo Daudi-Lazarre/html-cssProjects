@@ -168,6 +168,17 @@ a:active {
 
 nav a:link {
     display: inline-block;
-    margin-right: 30px;
-    margin-left: 32px; 
+    margin-right: 15px;
 }
+
+/* Flexbox */
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* VSCODE HACKS: */
+/* Command + Tab - Auto comment */
+/* Option + arrow down, arrow up - move line of code */
+/* ! - Auto structure for new html & css file */
