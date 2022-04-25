@@ -14,7 +14,7 @@
       }
       .el--3 {
         background-color: green;
-        height: 150px;
+        height: 250px;
       }
       .el--4 {
         background-color: goldenrod;
@@ -40,9 +40,27 @@
         margin: 40px;
 
         /* CSS GRID */
+        display: grid;
+        /* fr means fraction */
+        /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 250px 250px;
+        justify-content: center;
+        
+        /* GAP */
+        row-gap: 50px;
+        column-gap: 50px;
+      }
+
+      .el--8 {
+          /* Move from column position 2 to 3 */
+          /* Move from row position 1 to 2 */
+          grid-column: 2 / 3;
+          grid-row: 1 / 2;
       }
 
       .container--2 {
+          display: none;
         /* STARTER */
         font-family: sans-serif;
         background-color: black;
