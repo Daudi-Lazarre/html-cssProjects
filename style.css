@@ -1,3 +1,13 @@
+/* CSS HEX */
+.color-display {
+    --celadon: #afd5aaff;
+--cultured: #f0f2efff;
+--umber: #5c5346ff;
+--quick-silver: #a69f98ff;
+--rose-taupe: #8c6057ff;
+
+}
+
 /* Universal selector */
 * {
     margin: 0;
@@ -36,7 +46,9 @@ footer {
 }
 
 .container {
+    /* demonstration */
     width: 850px;
+    /* width: 850px; */
     margin: 0 auto;
 }
 
