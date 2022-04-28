@@ -13,16 +13,11 @@ Good design creates a sustainable, trustworthy impression on the user. Bad desig
 Good design increases the perceived value of a brand or identity. Bad design decreases it. 
 
 # The ingredients
-Here's a list of what makes a good website:
-## Typography
+## 1. Typography
 ### Sizes and weights
-    - Play it safe with typefaces: use popular ones
-    - Use 1-2 fonts per page
-    - Choose right font for personality
-    - Normal text: 16px to 32px
-    - Long text: 20px+
-    - Headlines: 50px+, bold 600+
-    - Any text != 400-
+
+
+### Good reading experience
 
 
 2. Colors
