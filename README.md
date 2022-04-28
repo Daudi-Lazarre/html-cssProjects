@@ -16,10 +16,10 @@ Good design increases the perceived value of a brand or identity. Bad design dec
 
 ## 1. Typography
 ### Sizes and weights
-![](2022-04-27-22-52-01.png)
+![Bing](2022-04-27-22-52-01.png)
 
 ### Good reading experience
-![](2022-04-27-22-51-26.png)
+![Bong](2022-04-27-22-51-26.png)
 
 
 2. Colors
