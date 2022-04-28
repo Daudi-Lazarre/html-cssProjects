@@ -1,7 +1,9 @@
-# HTML & CSS
-The entry point into front-end web development.
-This repository will be an index documenting my path to re-learning HTML & CSS.
+# Projects
 
+##  Dog website
+This website is dedicated to dogs in all forms and why I recommend adopting one into your family.
+
+# Web Design Guidelines
 ## Web design vs. Web development
 Web designers mock up the feel of a website, while web developers write the code to make it happen.
 Web designers typically use, Sketch, Figma or Adobe XD.
@@ -43,8 +45,3 @@ Good design increases the perceived value of a brand or identity. Bad design dec
 - Calm: Soft serif headings, calm pastel colors, relevant images
 - Startup: Medium sans serif font, light gray text and backgrounds, rounded elements  
 - Playful: Hand-drawn illustrations, fun language
-
-# Projects
-
-##  Dog website
-This website is dedicated to dogs in all forms and why I recommend adopting one into your family.
