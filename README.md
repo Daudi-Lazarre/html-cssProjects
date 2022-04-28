@@ -15,7 +15,7 @@ Good design increases the perceived value of a brand or identity. Bad design dec
 # The ingredients
 Here's a list of what makes a good website:
 1. Typography
-    **Fonts and weights** <br />
+    **Fonts and weights**<br />
     - Play it safe with typefaces: use popular ones
     - Use 1-2 fonts per page
     - Choose right font for personality
