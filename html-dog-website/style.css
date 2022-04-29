@@ -33,11 +33,12 @@ nav {
     
 }
 
-/* Smaller sections */
-
-h1 {
-    color: #FFBF69;
+nav {
+    font-size: 14px;
+    /* 18 / 20 / 24 */
 }
+
+/* Smaller sections */
 
 h2,
 h3 {
@@ -70,9 +71,8 @@ footer {
 .main-header {
     /* border-bottom: 15px solid #F0F2EF; */
     /* background-color: #afd5aa4c; */
-    padding: 15px;
-    padding-left: 30px;
-    margin-bottom: 60px;
+    padding: 15px 0px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
@@ -85,12 +85,15 @@ footer {
 } */
 
 h1 {
-    font-size: 24px;
+    color: #FF9F1C;
+    font-size: 18px;
+    /* 18 / 20 / 24 */
     text-transform: uppercase;
 }
 
 h2 {
     font-size: 36px;
+    /* 24 / 30 / 36 */
     margin-bottom: 0px;
     position: relative;
     /* SEE: Pseudo-element placement: background-color: orange; */
@@ -99,8 +102,8 @@ h2 {
 /* Optional */
 h2::after {
     content: "TOP";
-    background-color: #d5aaaf;
-    color: #000;
+    background-color: #FF9F1C;
+    color: #fff;
     font-size: 35%;
     display: inline-block;
     padding: 5px 10px;
@@ -122,8 +125,8 @@ h2::after {
 }
 
 h3 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: 30px;
+    margin-bottom: 17.5px;
 }
 
 p {
@@ -133,7 +136,7 @@ p {
 ul,
 ol {
     margin-left: 60px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
 }
 
 p,
@@ -155,7 +158,7 @@ ul {
 }
 
 aside {
-    border-top: 10px solid #afd5aa4c;
+    border-top: 10px solid #CBF3F0;
     padding: 15px 0px;
 }
 
@@ -172,14 +175,14 @@ aside {
 
 a:link,
 a:visited {
-    color:#8C6057;
+    color: #FF9F1C;
     text-decoration: none;
 }
 
 /* What happens when hovered? */
 
 a:hover {
-    color: #8c6057d6;
+    color: #e59019;
     /* font-weight: bold; */
     border-bottom: solid;
 }
@@ -187,7 +190,7 @@ a:hover {
 /* What happens when clicking? */
 
 a:active {
-    color:#79534b;
+    color:#cd8117;
 }
 
 nav a:link {
