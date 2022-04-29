@@ -3,17 +3,13 @@
 - Startup: Medium sans serif font, light gray text and backgrounds, rounded elements  
 
 Typography: Sans-serif
-- Open Sans (NO)
-- Lato (YES)
-- Work (OH, YES)
-- Montserrat (NO)
+- Work
 
 Color Palette:
-https://coolors.co/ff9f1c-ffbf69-ffffff-cbf3f0-2ec4b6
+orange-peel: #ff9f1cff;
+mellow-apricot: #ffbf69ff;
+white: #ffffffff;
+light-cyan: #cbf3f0ff;
+tiffany-blue: #2ec4b6ff; 
 
-TDL:
-Change color (CHECK)
-Change font (CHECK)
-Change picture
-Align Canine protocol to the left (CHECK)
-Align navigation the right (CHECK)
+See [color palette](https://coolors.co/ff9f1c-ffbf69-ffffff-cbf3f0-2ec4b6).
