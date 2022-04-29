@@ -60,7 +60,7 @@ footer {
 
 .container {
     /* demonstration */
-    width: 400px;
+    width: 850px;
     /* width: 850px; */
     margin: 0 auto;
 }
@@ -197,7 +197,7 @@ a:active {
 
 nav a:link {
     display: inline-block;
-    margin-right: 15px;
+    margin-left: 15px;
 }
 
 /* Flexbox */
