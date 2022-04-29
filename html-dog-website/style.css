@@ -7,14 +7,7 @@ FONT SIZE SYSTEM (px)
 */
 
 /* CSS HEX */
-.color-display {
-    --celadon: #afd5aaff;
---cultured: #f0f2efff;
---umber: #5c5346ff;
---quick-silver: #a69f98ff;
---rose-taupe: #8c6057ff;
 
-}
 
 /* Universal selector */
 * {
@@ -29,7 +22,7 @@ p,
 ol, 
 ul,
 nav {
-    font-family: sans-serif;
+    font-family: 'open sans', sans-serif;
 }
 
 /* Smaller sections */
