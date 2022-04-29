@@ -8,13 +8,12 @@ Typography: Sans-serif
 - Work (OH, YES)
 - Montserrat (NO)
 
-Colors:
+Color Palette:
 https://coolors.co/ff9f1c-ffbf69-ffffff-cbf3f0-2ec4b6
 
 TDL:
-Change color
-Change font
+Change color (CHECK)
+Change font (CHECK)
 Change picture
-
-Align Canine protocol to the left
-Align navigation the left
+Align Canine protocol to the left (CHECK)
+Align navigation the right (CHECK)
