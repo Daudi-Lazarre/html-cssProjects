@@ -7,6 +7,13 @@ FONT SIZE SYSTEM (px)
 */
 
 /* CSS HEX */
+/* 
+orange-peel: #ff9f1cff;
+mellow-apricot: #ffbf69ff;
+white: #ffffffff;
+light-cyan: #cbf3f0ff;
+tiffany-blue: #2ec4b6ff; 
+*/
 
 
 /* Universal selector */
@@ -22,15 +29,19 @@ p,
 ol, 
 ul,
 nav {
-    font-family: 'open sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    
 }
 
 /* Smaller sections */
 
-h1,
+h1 {
+    color: #FFBF69;
+}
+
 h2,
 h3 {
-    color: #8C6057;
+    color: #2EC4B6;
 }
 
 article {
@@ -43,7 +54,7 @@ p,
 ul,
 ol,
 footer {
-    color:#5C5346;
+    color:#000;
 }
 
 .container {
@@ -58,7 +69,7 @@ footer {
 /* Main header & Aside have the same color */
 .main-header {
     /* border-bottom: 15px solid #F0F2EF; */
-    background-color: #afd5aa4c;
+    /* background-color: #afd5aa4c; */
     padding: 15px;
     padding-left: 30px;
     margin-bottom: 60px;
