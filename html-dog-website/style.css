@@ -113,15 +113,21 @@ h2::after {
 }
 
 .dog-image {
-
     width: 100%;
     height: auto;
     border-radius: 10px;
     margin-bottom: 35px;
     /* X axis, Y axis, Blur radius */
-    box-shadow: 0px 10px 20px rgb(170, 170, 170);
-
+    box-shadow: 0px 05px 10px rgb(170, 170, 170);
+    /* transition: box-shadow 0.15s ease-in-out; */
 }
+
+/* May make the user click the image */
+/* .dog-image:hover {
+        /* X axis, Y axis, Blur radius */
+        /* box-shadow: 0px 5px 10px rgb(170, 170, 170);
+} */
+
 .dog-intro {
     /* Center the text */
     text-align: left;
