@@ -115,7 +115,7 @@ h2::after {
 .dog-image {
     width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 30px;
     margin-bottom: 35px;
     /* X axis, Y axis, Blur radius */
     box-shadow: 0px 05px 10px rgb(170, 170, 170);
