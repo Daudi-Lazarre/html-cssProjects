@@ -40,9 +40,12 @@ nav {
 
 /* Smaller sections */
 
-h2,
-h3 {
+h2 {
     color: #27A599;
+}
+
+h3 {
+    color: #52b7ad;
 }
 
 article {
@@ -100,7 +103,7 @@ h2 {
 }
 
 /* Optional */
-h2::after {
+.pawfect-family::after {
     content: "TOP";
     background-color: #D67D00;
     color: #fff;
@@ -129,14 +132,56 @@ h2::after {
 } */
 
 .dog-intro {
-    /* Center the text */
+    /* Align the text */
+    letter-spacing: .5px;
+    font-weight: 600;
     text-align: left;
-    margin-bottom: 35px;
+    color: #fff;
+
+    background-color: #D67D00;
+    border-radius: 30px;
+    padding: 24px;
+    margin-bottom: 75px;
+}
+
+
+/* The part with Zak and the quote below the dog picture */
+
+section {
+    display: block;
+}
+
+.quote-section {
+    background-color: #1f847a;
+    color: #fff;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.quote-box {
+    align-self: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+}
+
+.dog-comfort {
+    color: #fff;
+}
+
+.quote-text {
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.quote-author-name {
+    color: #fff;
+    padding: 0;
 }
 
 h3 {
     font-size: 30px;
-    margin-bottom: 17.5px;
+    margin-bottom: 12.5px;
 }
 
 p {
@@ -153,8 +198,8 @@ p,
 ol,
 ul {
     font-size: 16px;
-    line-height:  1.5;
-    margin-bottom: 15px;
+    line-height:  1.7;
+    margin-bottom: 25px;
 }
 
 .author {
