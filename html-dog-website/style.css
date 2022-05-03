@@ -118,8 +118,10 @@ h2::after {
     height: auto;
     border-radius: 10px;
     margin-bottom: 35px;
-}
+    /* X axis, Y axis, Blur radius */
+    box-shadow: 0px 10px 15px rgb(170, 170, 170);
 
+}
 .dog-intro {
     /* Center the text */
     text-align: left;
