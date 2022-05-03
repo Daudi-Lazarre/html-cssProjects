@@ -119,7 +119,7 @@ h2::after {
     border-radius: 10px;
     margin-bottom: 35px;
     /* X axis, Y axis, Blur radius */
-    box-shadow: 0px 10px 15px rgb(170, 170, 170);
+    box-shadow: 0px 10px 20px rgb(170, 170, 170);
 
 }
 .dog-intro {
