@@ -121,7 +121,7 @@ h2 {
     border-radius: 30px;
     margin-bottom: 35px;
     /* X axis, Y axis, Blur radius */
-    box-shadow: 0px 05px 10px rgb(170, 170, 170);
+    /* box-shadow: 0px 05px 10px rgb(170, 170, 170); */
     /* transition: box-shadow 0.15s ease-in-out; */
 }
 
@@ -156,6 +156,7 @@ section {
     color: #fff;
     padding: 15px;
     border-radius: 30px;
+    margin-bottom: 30px;
 }
 
 .quote-box {
@@ -172,14 +173,17 @@ section {
     font-style: italic;
     font-size: 16px;
     line-height: 1.7;
+    margin-bottom: 12.5px;
 }
 
 .quote-author-name {
     color: #fff;
     padding: 0;
+    margin: 15px;
 }
 
 h3 {
+    margin-top: 12.5px;
     font-size: 30px;
     margin-bottom: 12.5px;
 }
