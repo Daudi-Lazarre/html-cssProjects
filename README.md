@@ -10,12 +10,6 @@ This repository serves as documentation for my journey into understanding HTML &
 
 ## Installation
 
-Open [HTML Preview](http://htmlpreview.github.io) in a separate tab.
+Check out the [dog website](http://htmlpreview.github.io/?https://github.com/daudi-lazarre/html-cssProjects/blob/main/html-dog-website/fundamentals.html)
 
-For the dog website, navigate to "html-dog-website".
-Right-click "fundamentals.html" and copy link address.
-Paste address in HTML Preview and press enter.
-
-For the furniture website, navigate to "html-furniture-website".
-Right-click "index.html" and copy link address.
-Paste address in HTML Preview and press enter.
+Check out the [furniture website](http://htmlpreview.github.io/?https://github.com/daudi-lazarre/html-cssProjects/blob/main/html-furniture-website/index.html)
