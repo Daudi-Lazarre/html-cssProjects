@@ -184,6 +184,26 @@ section {
     margin: 12px;
 }
 
+
+/* FUN COLORS: ADD PLAYFULNESS */
+.how-to-choose-a-dog {
+    color: #9a5a57;
+}
+
+.how-to-speak-to-a-dog {
+    color: rgb(214,124,0);
+}
+
+.how-to-care-for-a-dog {
+    color: #5d579a;
+}
+
+.how-to-teach-a-dog {
+    color: #949A57;
+}
+
+
+
 h3 {
     margin-top: 12px;
     font-size: 30px;
