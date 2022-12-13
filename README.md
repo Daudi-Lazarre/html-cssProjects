@@ -4,7 +4,7 @@
 This repository serves as documentation for my journey into understanding HTML & CSS in order to code interfaces that are designed in Figma, Sketch, etc. In it, are the following:
 
 - [Furniture website](http://htmlpreview.github.io/?https://github.com/daudi-lazarre/html-cssProjects/blob/main/html-furniture-website/index.html)
-<img width=50% src="https://imgur.com/a/HXlRiWR">
+<img width=50% src="https://imgur.com/gallery/HXlRiWR">
 
 - [Dog website](http://htmlpreview.github.io/?https://github.com/daudi-lazarre/html-cssProjects/blob/main/html-dog-website/fundamentals.html)
 <img width=50% src="https://imgur.com/a/ezD5aJk">
