@@ -7,6 +7,6 @@ This repository serves as documentation for my journey into understanding HTML &
 <img width=50% src="https://imgur.com/a/HXlRiWR">
 
 - [Dog website](http://htmlpreview.github.io/?https://github.com/daudi-lazarre/html-cssProjects/blob/main/html-dog-website/fundamentals.html)
-<img width=50% src="https://i.imgur.com/i1Q9COP.png">
+<img width=50% src="https://imgur.com/a/ezD5aJk">
 
 - [Web design PDF](https://github.com/daudi-lazarre/html-cssProjects/blob/main/html-web-design-guidelines.pdf)
